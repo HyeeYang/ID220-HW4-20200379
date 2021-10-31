@@ -7,7 +7,7 @@
 3. **Email**: didgpdnjs369@kaist.ac.kr
 
 4. **Video link**:
-   https://youtu.be/E25x_KAcSQ0
+   https://youtu.be/STLxJj515mg
 
 ```
 Upload your video on YouTube or on Google Drive or similar service.
