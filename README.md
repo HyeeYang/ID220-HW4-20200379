@@ -6,10 +6,10 @@
 
 3. **Email**: didgpdnjs369@kaist.ac.kr
 
-4. **Video link**:
+4. **Video link**: https://youtu.be/STLxJj515mg
 
 ```
-https://youtu.be/STLxJj515mg
+
 ```
 
 6. **[OPTIONAL] Images/Additional material link**:
